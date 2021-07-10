@@ -1,4 +1,4 @@
-## lexical analyser
+## Lexical Analyser
 * The application of a lexical analyser for basic calculations based on finite automata approach.
 
 ## Description
